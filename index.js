@@ -1,4 +1,8 @@
+var animal = dog();
 
+function myAnimal(animal){
+  return animal
+}
 
 function yourAnimal(animal) {
   // How can we make sure that this function
