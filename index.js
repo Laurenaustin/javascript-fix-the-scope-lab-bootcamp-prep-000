@@ -1,7 +1,4 @@
-function myAnimal(animal) {
-  var animal = dog;
-  return animal
-}
+
 
 function yourAnimal(animal) {
   // How can we make sure that this function
